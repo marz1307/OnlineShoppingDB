@@ -4,7 +4,7 @@ This project contains the SQL schema, queries, and stored procedures for the **O
 
 ## 📁 Contents
 
-- `OnlineShoppingDB.sql`: SQL script containing various SQL queries and stored procedures for interacting with the database.
+- `OnlineShopping.sql`: SQL script containing various SQL queries and stored procedures for interacting with the database.
 
 ## 🧱 Database Schema Overview
 
@@ -18,7 +18,7 @@ The database consists of the following core tables:
 
 ## 📌 Features & Queries
 
-The `OnlineShoppingDB.sql` script includes:
+The `OnlineShopping.sql` script includes:
 
 - **Data Retrieval**:
   - List products based on various filters.
@@ -41,7 +41,7 @@ The `OnlineShoppingDB.sql` script includes:
 
 ## 🚀 Getting Started
 
-1. Import the SQL script (`OnlineShoppingDB.sql`) into your MySQL or PostgreSQL environment.
+1. Import the SQL script (`OnlineShopping.sql`) into your MySQL or PostgreSQL environment.
 2. Run the script to set up and interact with the OnlineShoppingDB.
 3. Customize queries or procedures as needed for your application.
 
